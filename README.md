@@ -1,1 +1,0 @@
-# HamedStack.AspNetCore.Security
